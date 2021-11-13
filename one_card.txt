@@ -1,0 +1,33 @@
+===【】j_name+===
+----
+{| class="article-table card-info"
+|+【】k_name+
+!colspan="2"|[[file:e_nameSR_countP.jpg]]
+|-
+|Vocal
+|
+|-
+|Dance
+|
+|-
+|Visual
+|
+|-
+|코스트
+|14
+|-
+|이적료
+|1400
+|-
+|특기
+|
+|-
+|효과
+|specialization
+|-
+|입수
+|event
+|-
+| style="text-align:right"; colspan="5" |[[k_name/대사 목록/2021년#【】j_name+|→카드 대사 보기]]
+|}
+<br/>

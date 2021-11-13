@@ -1,0 +1,39 @@
+===【】j_name===
+----
+{| class="article-table card-info"
+|+【】k_name
+! colspan="2" |[[file:e_name_rare_count.jpg]]
+! colspan="2" |[[file:e_name_rare_countP.jpg]]
+|-
+|Vocal
+|
+|Vocal
+|
+|-
+|Dance
+|
+|Dance
+|
+|-
+|Visual
+|
+|Visual
+|
+|-
+|코스트
+|cost
+|이적료
+|cost00
+|-
+|특기
+| colspan="4" |
+|-
+|효과
+| colspan="4" |specialization
+|-
+|입수
+| colspan="4" |event
+|-
+| style="text-align:right"; colspan="5" |[[k_name/대사 목록/2021년#【】j_name|→카드 대사 보기]]
+|}
+<br/>

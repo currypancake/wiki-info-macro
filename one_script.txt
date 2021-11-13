@@ -1,0 +1,30 @@
+===【】j_name+===
+----
+<div class="card-info">
+{| class="article-table script-info"
+|+【】k_name+
+|[[file:e_name_rare_countP.jpg]]
+|-
+|
+|}
+</div>
+{| class="article-table script-info"
+| rowspan="2" |스카웃
+|
+|-
+|
+|-
+| rowspan="2" |마이데스크
+|
+|-
+|
+|-
+|영업
+|
+|-
+|신뢰도MAX
+|
+|-
+| style="text-align:right"; colspan="5" |[[k_name/카드 목록#【】j_name+|→카드 스탯 보기]]
+|}
+<br>

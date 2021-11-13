@@ -1,0 +1,278 @@
+{
+  "토우마": {
+    "j_name": "天ヶ瀬 冬馬",
+    "k_name": "아마가세 토우마",
+    "e_name": "Touma",
+    "specialization": "피지컬 Vocal"
+  },
+  "쇼타": {
+    "j_name": "御手洗 翔太",
+    "k_name": "미타라이 쇼타",
+    "e_name": "Syota",
+    "specialization": "멘탈 Dance"
+  },
+  "호쿠토": {
+    "j_name": "伊集院 北斗",
+    "k_name": "이쥬인 호쿠토",
+    "e_name": "Hokuto",
+    "specialization": "인텔리 Visual"
+  },
+  "테루": {
+    "j_name": "天道 輝",
+    "k_name": "텐도 테루",
+    "e_name": "Teru",
+    "specialization": "피지컬 Dance"
+  },
+  "카오루": {
+    "j_name": "桜庭 薫",
+    "k_name": "사쿠라바 카오루",
+    "e_name": "Kaoru",
+    "specialization": "인텔리 Vocal"
+  },
+  "츠바사": {
+    "j_name": "柏木 翼",
+    "k_name": "카시와기 츠바사",
+    "e_name": "Tsubasa",
+    "specialization": "멘탈 Visual"
+  },
+  "케이": {
+    "j_name": "都築 圭",
+    "k_name": "츠즈키 케이",
+    "e_name": "kei",
+    "specialization": "멘탈 Vocal"
+  },
+  "레이": {
+    "j_name": "神楽 麗",
+    "k_name": "카구라 레이",
+    "e_name": "Rei",
+    "specialization": "인텔리 Vocal"
+  },
+  "쿄지": {
+    "j_name": "鷹城 恭二",
+    "k_name": "타카죠 쿄지",
+    "e_name": "Kyoji",
+    "specialization": "인텔리 Vocal"
+  },
+  "피에르": {
+    "j_name": "ﾋﾟｴｰﾙ",
+    "k_name": "피에르",
+    "e_name": "Pierre",
+    "specialization": "멘탈 Visual"
+  },
+  "미노리": {
+    "j_name": "渡辺 みのり",
+    "k_name": "와타나베 미노리",
+    "e_name": "Minori",
+    "specialization": "피지컬 Dance"
+  },
+  "유스케": {
+    "j_name": "蒼井 悠介",
+    "k_name": "아오이 유스케",
+    "e_name": "Yusuke",
+    "specialization": "멘탈 ?"
+  },
+  "쿄스케": {
+    "j_name": "蒼井 享介",
+    "k_name": "아오이 쿄스케",
+    "e_name": "Kyosuke",
+    "specialization": "인텔리 Visual"
+  },
+  "히데오": {
+    "j_name": "握野 英雄",
+    "k_name": "아쿠노 히데오",
+    "e_name": "Hideo",
+    "specialization": "인텔리 Dance"
+  },
+  "류": {
+    "j_name": "木村 龍",
+    "k_name": "키무라 류",
+    "e_name": "Ryu",
+    "specialization": "피지컬 Visual"
+  },
+  "세이지": {
+    "j_name": "信玄 誠司",
+    "k_name": "신겐 세이지",
+    "e_name": "Seiji",
+    "specialization": "멘탈 Dance"
+  },
+  "키리오": {
+    "j_name": "猫柳 ｷﾘｵ",
+    "k_name": "네코야나기 키리오",
+    "e_name": "Kirio",
+    "specialization": "인텔리 Dance"
+  },
+  "쇼마": {
+    "j_name": "華村 翔真",
+    "k_name": "하나무라 쇼마",
+    "e_name": "Syoma",
+    "specialization": "멘탈 Vocal"
+  },
+  "쿠로": {
+    "j_name": "清澄 九郎",
+    "k_name": "키요스미 쿠로",
+    "e_name": "Kuro",
+    "specialization": "멘탈 Visual"
+  },
+  "하야토": {
+    "j_name": "秋山 隼人",
+    "k_name": "아키야마 하야토",
+    "e_name": "Hayato",
+    "specialization": "피지컬 ?"
+  },
+  "쥰": {
+    "j_name": "冬美 旬",
+    "k_name": "후유미 쥰",
+    "e_name": "Jun",
+    "specialization": "인텔리 Vocal"
+  },
+  "나츠키": {
+    "j_name": "榊 夏来",
+    "k_name": "사카키 나츠키",
+    "e_name": "Natsuki",
+    "specialization": "인텔리 Visual"
+  },
+  "하루나": {
+    "j_name": "若里 春名",
+    "k_name": "와카자토 하루나",
+    "e_name": "Haruna",
+    "specialization": "멘탈 Dance"
+  },
+  "시키": {
+    "j_name": "伊瀬谷 四季",
+    "k_name": "이세야 시키",
+    "e_name": "Shiki",
+    "specialization": "피지컬 Vocal"
+  },
+  "스자쿠": {
+    "j_name": "紅井 朱雀",
+    "k_name": "아카이 스자쿠",
+    "e_name": "Suzaku",
+    "specialization": "피지컬 Dance"
+  },
+  "겐부": {
+    "j_name": "黒野 玄武",
+    "k_name": "쿠로노 겐부",
+    "e_name": "Genbu",
+    "specialization": "인텔리 ?"
+  },
+  "유키히로": {
+    "j_name": "神谷 幸広",
+    "k_name": "카미야 유키히로",
+    "e_name": "Kamiya",
+    "specialization": "멘탈 Visual"
+  },
+  "소이치로": {
+    "j_name": "東雲 荘一郎",
+    "k_name": "시노노메 소이치로",
+    "e_name": "Souichiro",
+    "specialization": "인텔리 Vocal"
+  },
+  "아스란": {
+    "j_name": "ｱｽﾗﾝ=BBⅡ世",
+    "k_name": "아스란=BB II세",
+    "e_name": "Asselin",
+    "specialization": "피지컬 Vocal"
+  },
+  "마키오": {
+    "j_name": "卯月 巻緒",
+    "k_name": "우즈키 마키오",
+    "e_name": "Makio",
+    "specialization": "멘탈 Visual"
+  },
+  "사키": {
+    "j_name": "水嶋 咲",
+    "k_name": "미즈시마 사키",
+    "e_name": "Saki",
+    "specialization": "피지컬 Visual"
+  },
+  "나오": {
+    "j_name": "岡村 直央",
+    "k_name": "오카무라 나오",
+    "e_name": "Nao",
+    "specialization": "인텔리 Visual"
+  },
+  "시로": {
+    "j_name": "橘 志狼",
+    "k_name": "타치바나 시로",
+    "e_name": "Shiro",
+    "specialization": "피지컬 Dance"
+  },
+  "카논": {
+    "j_name": "姫野 かのん",
+    "k_name": "히메노 카논",
+    "e_name": "Kanon",
+    "specialization": "멘탈 Visual"
+  },
+  "미치오": {
+    "j_name": "硲 道夫",
+    "k_name": "하자마 미치오",
+    "e_name": "Michio",
+    "specialization": "인텔리 Dance"
+  },
+  "루이": {
+    "j_name": "舞田 類",
+    "k_name": "마이타 루이",
+    "e_name": "Rui",
+    "specialization": "멘탈 Visual"
+  },
+  "지로": {
+    "j_name": "山下 次郎",
+    "k_name": "야마시타 지로",
+    "e_name": "Jiro",
+    "specialization": "인텔리 Vocal"
+  },
+  "타케루": {
+    "j_name": "大河 ﾀｹﾙ",
+    "k_name": "타이가 타케루",
+    "e_name": "Takeru",
+    "specialization": "피지컬 Dance"
+  },
+  "미치루": {
+    "j_name": "円城寺 道流",
+    "k_name": "엔죠지 미치루",
+    "e_name": "Michiru",
+    "specialization": "피지컬 Vocal"
+  },
+  "렌": {
+    "j_name": "牙崎 漣",
+    "k_name": "키자키 렌",
+    "e_name": "Ren",
+    "specialization": "피지컬 Dance"
+  },
+  "료": {
+    "j_name": "秋月 涼",
+    "k_name": "아키즈키 료",
+    "e_name": "Ryo",
+    "specialization": "멘탈 Vocal"
+  },
+  "다이고": {
+    "j_name": "兜 大吾",
+    "k_name": "카부토 다이고",
+    "e_name": "Daigo",
+    "specialization": "피지컬 Dance"
+  },
+  "카즈키": {
+    "j_name": "九十九 一希",
+    "k_name": "츠쿠모 카즈키",
+    "e_name": "Kazuki",
+    "specialization": "인텔리 Visual"
+  },
+  "아메히코": {
+    "j_name": "葛之葉 雨彦",
+    "k_name": "쿠즈노하 아메히코",
+    "e_name": "Amehiko",
+    "specialization": "인텔리 Dance"
+  },
+  "소라": {
+    "j_name": "北村 想楽",
+    "k_name": "키타무라 소라",
+    "e_name": "Sora",
+    "specialization": "멘탈 Vocal"
+  },
+  "크리스": {
+    "j_name": "古論 ｸﾘｽ",
+    "k_name": "코론 크리스",
+    "e_name": "Chris",
+    "specialization": "인텔리 Visual"
+  }
+}

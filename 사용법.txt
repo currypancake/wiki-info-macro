@@ -1,0 +1,52 @@
+https://www.manualfactory.net/11724
+위 링크를 보고 파이썬 파일이 설치된 폴더에서 파워쉘을 킨다.
+
+파워셀이 실행이 되면 입력창에
+python main.py
+을 입력하고 엔터를 친다.
+
+그럼 질문들이  몇가지 나올텐데
+
+* is this Non-transactionable card? input y or n - 거불카인지 묻는것 꼭 소문자 y, n 둘중 하나 입력
+* Input names - 이벤트 인선 이름(꼭 *이름만* 입렵)
+
+아래부터는 !!!꼭 이벤트 인선 이름 넣은 순서대로 입력!!!
+	 * Input card num - 몇번째 카드인지(만약 23번째 R카드면 23만 입력)
+	 * Input event name - 이벤트 이름 입력 (거불카면 가챠명이나 캠페인 이름 입력)
+
+거불카 아닐때만 나오는 질문
+	* Input rarity - 레어도 입력
+	* Input scout route - 카드 입수 방법 (포인트, 가챠, 랭킹 셋중 하나로 입력)
+
+
+예시)
+만약 예고로 루이 상위인 23세조 양면인 세무후렘 하코가 떴음
+배너에는 류랑 하자마 뜸
+
+그럼
+is this Non-transactionable card? input y or n
+n
+
+Input names
+히데오 류 세이지 미치오 루이 지로
+
+Input card num
+(위키 보고 해당 레어도 마지막 번호에 1더해서 숫자 넣으셈)
+2021.11.13일 기준으론
+31 25 27 30 31 28
+이렇게 쓰면됨
+
+Input event name
+예고에서 글자 긁어서 복붙하셈
+
+Input rarity 
+SR R R R SR R
+
+Input scout route
+가챠 포인트 가챠 랭킹 랭킹 가챠
+
+포랭은 뭔지 모르니까 그냥 찍어서 쓰고 나중에 고치면 됨
+
+그리고 result.txt파일 열어보고 잘 됐나 확인하고 위키에 복붙하면 됨
+
+질문이나 오류 있으면 나 호출하셈
