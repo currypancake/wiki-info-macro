@@ -18,9 +18,9 @@ def default_card() :
 	with open('chara_info.json', encoding='UTF-8') as json_file:
 		json_data = json.load(json_file)
 		
-		f = open("result.txt", "w")
-		fscript = open("script.txt", "r")
-		fcard = open("card.txt", "r")
+		f = open("result.txt", "w", encoding='UTF-8')
+		fscript = open("script.txt", "r", encoding='UTF-8')
+		fcard = open("card.txt", "r", encoding='UTF-8')
 	
 		script = fscript.read()
 		card = fcard.read()
@@ -66,10 +66,10 @@ def one_card() :
 	with open('chara_info.json', encoding='UTF-8') as json_file:
 		json_data = json.load(json_file)
 
-		f = open("result.txt", "w")
+		f = open("result.txt", "w", encoding='UTF-8')
 
-		fscript = open("one_script.txt", "r")
-		fcard = open("one_card.txt", "r")
+		fscript = open("one_script.txt", "r", encoding='UTF-8')
+		fcard = open("one_card.txt", "r", encoding='UTF-8')
 
 		script = fscript.read()
 		card = fcard.read()
